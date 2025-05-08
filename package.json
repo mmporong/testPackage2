@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.quizmodule",
+  "version": "1.0.0",
+  "displayName": "Quiz Module",
+  "description": "유니티에서 사용할 퀴즈 모듈",
+  "unity": "2021.3",
+  "author": {
+    "name": "Lim-jooyoung",
+    "url": "https://github.com/mmporong/testPackage2"
+  }
+}
