@@ -2,7 +2,8 @@
 	"name": "QuizModule",
 	"references": [
 	  "Unity.Addressables",
-	  "Unity.ResourceManager"
+	  "Unity.ResourceManager",
+	  "Unity.TextMeshPro"
 	],
 	"optionalUnityReferences": [],
 	"includePlatforms": [],
